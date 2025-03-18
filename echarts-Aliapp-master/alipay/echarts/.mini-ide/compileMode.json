@@ -1,0 +1,10 @@
+{
+  "modes": [
+    {
+      "title": "pages/line/index",
+      "page": "pages/line/index",
+      "launchMode": "common",
+      "pageQuery": ""
+    }
+  ]
+}
